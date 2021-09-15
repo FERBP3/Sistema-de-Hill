@@ -1,6 +1,6 @@
-# Sistema-de-Hill
+# Hill System
 
-Programa que implementa el cifrado de Hill
+Program that implements the Hill System.
 
 
 
